@@ -16,3 +16,14 @@ infrastructure.
 
 ## Note
 The core PCS architecture remains unchanged from the local setup.
+
+
+
+## Related Architecture Documentation
+
+- Core PCS HA Architecture Overview:  
+  https://github.com/khushi-org/architecture-docs
+- PCS Architecture Diagrams (if available):  
+  https://github.com/khushi-org/architecture-docs/tree/main/diagrams
+- PCS HA Gateway Implementation:  
+  https://github.com/khushi-org/pcs-ha-gateway
